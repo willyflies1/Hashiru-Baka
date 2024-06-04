@@ -12,7 +12,7 @@ A mobile application developed through [Unity](https://unity.com/).
 | Software Name         | Version   |
 | --------------------- | --------- |
 | Unity                 | v3.7.0    |
-| Visual Studio Code    | v.1.88.0  |
+| Visual Studio Code    | v1.88.0  |
 | Git                   | x         |
 
 ### Supported Devices
